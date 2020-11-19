@@ -12,9 +12,8 @@
 
 ***还知道了一些知名网站***
 
-### (1)[Github](https://github.com/)
-
-### (2)[CSDN](https://www.csdn.net/)
+1. [Github](https://github.com/)
+2. [CSDN](https://www.csdn.net/)
 
 ## 四、
 
